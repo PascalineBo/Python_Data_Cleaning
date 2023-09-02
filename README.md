@@ -1,2 +1,4 @@
 # Python_Data_Cleaning
-Optimisez la gestion du stock d’une boutique en ligne en nettoyant ses données
+## Use of Python (Pandas, Plotly Express, Malplotlib) to observe, reconcile and clean data from a ERP file and a website File
+The Client is an online Wine Store, who whish to secure its prices and in-stock data.
+
